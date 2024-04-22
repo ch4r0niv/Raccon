@@ -17,3 +17,5 @@ Verificar el Resultado: Verifica el archivo de salida en formato CSV con las cre
 
 ## Aviso Legal
 Este proyecto es solo para fines educativos y de investigación. El uso indebido de esta herramienta para acceder a información sin autorización puede estar sujeto a sanciones legales. ¡Úsalo bajo tu propio riesgo!
+
+Nota: Esta herramienta ha sido probada únicamente en sistemas operativos Windows.
