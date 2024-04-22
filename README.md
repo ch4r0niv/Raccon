@@ -7,7 +7,7 @@ Exportación a CSV: Las credenciales extraídas se organizan y exportan automát
 Próximamente: Se están desarrollando funciones adicionales para enviar estas credenciales a un servidor de Discord o Telegram, permitiendo una gestión centralizada.
 
 ## Uso
-Clonar el Repositorio: Clona el repositorio en tu máquina local.
+Clonar el Repositorio.
 ```
 git clone https://github.com/ch4r0niv/Raccon
 python3 Raccon.py
