@@ -37,9 +37,9 @@ def generate_cipher(aes_key, iv):
 
 def decrypt_password(ciphertext, secret_key):
     try:
-        #(3 Initialisation vector for AES decryption
+        # Initialisation vector for AES decryption
         initialisation_vector = ciphertext[3:15]
-        #(3 Get encrypted password by removing suffix bytes (last 16 bits)
+        # Get encrypted password by removing suffix bytes (last 16 bits)
         #Encrypted password is 192 bits
         encrypted_password = ciphertext[15:-16]
         # Build the cipher to decrypt the ciphertext
