@@ -1,6 +1,10 @@
 # Raccon (v1.0)
 Raccon es una herramienta que permite extraer y organizar las credenciales de sesión almacenadas en Google Chrome en una hoja de cálculo CSV de manera sencilla y eficiente.
 
+<p align="center">
+  <img src="https://images.immediate.co.uk/production/volatile/sites/3/2022/11/Rocket-Guardians-4271d44.jpg?quality=90&resize=620,414" alt="Imagen" style="border-radius: 50%;" />
+</p>
+
 ## Características
 Raccon: La herramienta extrae IDs de sesión, URLs, nombres de usuario y contraseñas almacenadas en Google Chrome.
 Exportación a CSV: Las credenciales extraídas se organizan y exportan automáticamente a un archivo CSV para facilitar su manejo y análisis.
